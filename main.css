@@ -1,0 +1,234 @@
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: #FFFFFF;
+    border-bottom: 1px solid #979797;
+
+}
+
+#navbar li {
+    float: right;
+    font-family: AvenirNext-Medium;
+    font-size: 24px;
+    color: #000000;
+}
+
+#navbar li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#navbar li a:hover {
+    text-decoration: underline;
+}
+
+#navbar a.active{
+    text-decoration: underline;
+}
+
+.pf{
+    float: left;
+    margin: 5px;
+    padding: 0;
+    overflow: hidden;
+    align-content: flex-start;
+}
+
+#fancybody {
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    font-family: AvenirNext;
+    font-size: 48px;
+    color: #000000;
+    text-decoration: none;
+
+}
+
+#rightpic {
+    position: absolute;
+    top: 150px;
+    right: 80px;
+}
+#centbot {
+    bottom: 0;
+    position: absolute;
+}
+
+#wtftitle {
+    font-family: AvenirNext-Bold;
+    font-size: 36px;
+    color: #000000;
+    margin-left: 25px;
+}
+
+#wtfbody {
+    font-family: AvenirNext-Medium;
+    font-size: 24px;
+    color: #000000;
+    margin-left: 25px;
+}
+
+#schedpic1 {
+    position:absolute;
+    top: 100px;
+    right:50px;
+    border: 1px solid black;
+}
+
+#steps {
+    float: right;
+    padding: 50px;
+}
+
+#stepstitle {
+    font-family: AvenirNext-Bold;
+    font-size: 36px;
+    color: #000000;
+    right: 25px;
+    top: 698px;
+}
+
+#stepsbody {
+    font-family: AvenirNext-Medium;
+    font-size: 24px;
+    color: #000000;
+    float: right;
+    top: 700px;
+    clear: both;
+}
+#schedpic2 {
+    max-width: 700px;
+    max-height: 375px;
+    position: absolute;
+    left: 12px;
+    top: 50px;
+    border: 1px solid black;
+    clear: both;
+}
+.rect {
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 500px;
+    top: 610px;
+    background-color: #F2F2F2;
+
+}
+#wait {
+    font-family: AvenirNext-Medium;
+    font-size: 24px;
+    color: #000000;
+    top: 1900px;
+    clear: both;
+    width: 500px;
+    margin-left: 25px;
+}
+
+#next {
+    font-family: AvenirNext-Bold;
+    font-size: 36px;
+    color: #000000;
+    top: 1900px;
+    width: 300px;
+    clear: both;
+    margin-left: 25px;
+}
+#schedpic3 {
+    position:absolute;
+    top: 25px;
+    right:50px;
+    border: 1px solid black;
+}
+.bottom {
+    position: absolute;
+    top: 1100px;
+    right: 0;
+    height: 400px;
+    left: 0;
+    overflow: hidden;
+}
+#title {
+    font-family: AvenirNext-Medium;
+    font-size: 36px;
+    color: #000000;
+}
+
+#bio1{
+    background: #F2F2F2;
+    border: 1px solid #979797;
+    width: 100%;
+    height: 350px;
+}
+
+#Stats{
+    font-family: AvenirNext-Medium;
+    font-size: 14px;
+    color: #000000;
+    float: left;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 50px;
+
+}
+
+.pic {
+    float: left;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+#hobby {
+    padding-top: 50px;
+    padding-left: 5px;
+    padding-right: 20px;
+    left: 100px;
+    font-family: AvenirNext-Medium;
+    font-size: 16px;
+    color: #000000;
+    text-align: left;
+}
+
+#bio2 {
+    float: left;
+    background: #F2F2F2;
+    border: 1px solid #979797;
+    width: 100%;
+    height: 350px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#bio3 {
+    float: left;
+    background: #F2F2F2;
+    border: 1px solid #979797;
+    width: 100%;
+    height: 350px;
+    margin-bottom: 20px;
+}
+
+.devinpic {
+    float: left;
+    padding-left: 35px;
+    padding-top: 10px;
+    padding-right: 60px;
+}
+
+#connect {
+    float: right;
+}
+
+#introduction{
+    font-family: AvenirNext-medium;
+    font-size: 24px;
+    color: #000000;
+    text-decoration: none;
+}
+audio {
+   display:none;
+}
